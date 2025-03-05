@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+sentence_transformers
+IPython
+flask-cors
+pydantic==2.7.4
+openai
+google-cloud-aiplatform==1.49.0
+fastembed==0.3.1
